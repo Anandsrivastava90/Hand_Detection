@@ -16,5 +16,11 @@ Jupyter Notebook
 Ananconda
 
 #Introduction
-Here I have used Faster RCNN, It is one of the state of the art algorithm for object detection.
+Here I have used SSD architecure , It is one of the state of the art algorithm for object detection.Due to is trade of between FPS and accuracy.
+
+
+
+
+#Output
+
 
