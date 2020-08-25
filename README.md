@@ -30,7 +30,7 @@ Wherein the output of the convolution of 5 different layers (feature map) each w
 
 
 
-#Output
+# Output
 ![Screenshot](hand_detection.png)
 
 ![Screenshot](hand2323.png)
