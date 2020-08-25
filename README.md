@@ -22,5 +22,8 @@ Here I have used SSD architecure , It is one of the state of the art algorithm f
 
 
 #Output
+![Screenshot](hand_detection.png)
+
+![Screenshot](hand2323.png)
 
 
